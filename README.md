@@ -1,5 +1,5 @@
 # 📝 Profile (EN)
-Sora Harada born in Chiba, Japan, in 2003.
+Sora Harada (fe-chan) born in Chiba, Japan, in 2003.
 At 16, He entered Technical college in Japan, majoring in Information and Computer Engineering. He has launched a variety of projects, for example, developing an IoT device for older citizens living alone.(Project TSUBAME, Funded by MIC, 2020)
 At 17, He received an award for excellence in one of the greatest business contests in Japan, hosted by Tokyo metropolis.
 
